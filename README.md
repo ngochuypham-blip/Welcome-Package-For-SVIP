@@ -42,7 +42,7 @@ Find all the users who have claimed the SVIP free trial package.
 * schema: `shopeepay`
 
 * name: `ods__shopeepay_promotion_hub_vn_db__user_reward_instance_tab__df`
-* 
+
 ## Data-Lineage:
 
 ```mermaid
