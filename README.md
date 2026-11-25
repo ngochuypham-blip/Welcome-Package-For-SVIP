@@ -1,6 +1,6 @@
 # Tracking Traffic `SVIP` that include in `Welcome Package`
 
-> script: [tracking welcome package - svip](scripts/welcome_package_for_svip_tracking/tmp_traffic_svip_with_welcome_package.sql)
+> script: [tracking welcome package - svip](scripts/svip_welcomepackage/tmp_traffic_svip_with_welcome_package.sql)
 
 ## Objective:
 
