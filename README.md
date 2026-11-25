@@ -1,5 +1,7 @@
 # Tracking Traffic `SVIP` that include in `Welcome Package`
 
+> script: [tracking welcome package - svip](scripts/welcome_package_for_svip_tracking/tmp_traffic_svip_with_welcome_package.sql)
+
 ## Objective:
 
 Find all the users who have claimed the SVIP free trial package.
